@@ -20,7 +20,7 @@ header ul li{
 }
 
 
-
+/* class for about in animation effect */
 @media  screen and (max-width:600px) {
   .txt{
 color: black;
@@ -31,4 +31,13 @@ animation-duration: 5s;
     to{color:black}
   }
   
+}
+/* class for about */
+.haight{
+  height: auto;
+   
+}
+.prj-indiv{
+display: flex;
+justify-content: center;
 }

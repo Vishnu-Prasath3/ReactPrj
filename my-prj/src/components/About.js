@@ -3,7 +3,7 @@ import AboutImg from '../assets/aboutwrk.png'
 
 export default function About(){
     return(
-        <section className='flex bg-indigo-700 h-dvh devotional'>
+        <section className='flex bg-indigo-700 h-dvh haight devotional'>
             <div className=' md:w-1/2  '>
                  <img src={AboutImg} className=' h-dvh '></img>
             </div>

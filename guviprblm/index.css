@@ -1,41 +1,6 @@
-/* .product{
-    width: 300px;
-    margin: auto;
-    border-radius: 10%;
-    border: 5px solid black;
-    justify-content: center;
-    
-}
-.center{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    padding-top: 20px;
-    border-radius: 10px;
-}
-.card-detail{
-margin-left: auto;
-margin-right: auto;
-padding-left: 20%;
-}
-body{
+nav{
+    width: auto;
+    height: 100px;
+    background-color:rgb(47, 61, 70);
     display: flex;
-
-} */
-
-.of{
-    width:300px;
-    height: 200px;
-    background: green;
-    overflow:auto;padding: 10px;
-    border-radius: 2%;
-    scrollbar-width: none ;
-
 }
-html{
-font-size: 2rem;
-}
-div{
-    font-size: 3rem;
-}
-
